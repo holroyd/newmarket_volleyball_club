@@ -1,0 +1,106 @@
+<div id="nvl20142015" class="fixtures">
+	<div class="fixturesHeading contentHeading">
+		<h1>National Volleyball League</h1>
+		<h2>Fixtures 2014 - 2015</h2>
+	</div>
+	
+	<div class="contentHeading">
+	<% foreach my $fixturesByDate (@$fixtures) { %>
+		<h1><%= $fixturesByDate->{"date"} %></h1>
+		<table>
+		<% foreach my $fixture (@{$fixturesByDate->{"fixtures"}}) { %>
+			<tr>
+				<td width="50%"><%= $fixture->{"home_team"} %></td>
+				<td width="50%"><%= $fixture->{"away_team"} %></td>
+			</tr>
+		<% } %>
+		</table>
+	<% } %>
+	</div>
+	
+	<table class="dataTable">
+		<thead>
+			<tr>
+				<th>Date</th>
+				<th>Match</th>
+				<th>Fixture</th>
+				<th>Venue</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="odd">
+				<td>Sunday<br />29-SEP-2014</td>
+				<td>3</td>
+				<td class="us"><a href="<%== url_for('/fixtures/match/3') %>">Newmarket VC vs. Tendring Academy</a></td>
+				<td>Newmarket Leisure Centre</td>
+			</tr>
+			
+			<tr class="even">
+				<td rowspan="2">Sunday<br />19-OCT-2014</td>
+				<td rowspan="2">6</td>
+				<td class="us">Newmarket VC vs. Norwich Spikers</td>
+				<td rowspan="2">Kingston Arena</td>
+			</tr>
+			<tr class="even">
+				<td>Richmond Volleyball 2 vs. Newmarket VC</td>
+			</tr>
+			
+			<tr class="odd">
+				<td rowspan="2">Sunday<br />02-NOV-2014</td>
+				<td rowspan="2">7</td>
+				<td class="us">Newmarket VC vs. University of East London</td>
+				<td rowspan="2">Newmarket Leisure Centre</td>
+			</tr>
+			<tr class="odd">
+				<td class="us">Newmarket VC vs. Essex Juniors</td>
+			</tr>
+			
+			<tr class="even">
+				<td rowspan="2">Sunday<br />24-JAN-2015</td>
+				<td rowspan="2">11</td>
+				<td>EBC Greenhouse (London) vs. Newmarket VC</td>
+				<td rowspan="2">Ernest Bevin College</td>
+			</tr>
+			<tr class="even">
+				<td>London Aces vs. Newmarket VC</td>
+			</tr>
+			
+			<tr class="odd">
+				<td rowspan="2">Sunday<br />07-FEB-2015</td>
+				<td rowspan="2">14</td>
+				<td>Essex Juniors vs. Newmarket VC</td>
+				<td rowspan="2">Boswells School</td>
+			</tr>
+			<tr class="odd">
+				<td class="us">Newmarket VC vs. London Aces</td>
+			</tr>
+			
+			<tr class="even">
+				<td rowspan="2">Sunday<br />22-FEB-2015</td>
+				<td rowspan="2">17</td>
+				<td class="us">Newmarket VC vs. Tendring Academy</td>
+				<td rowspan="2">Newmarket Leisure Centre</td>
+			</tr>
+			<tr class="even">
+				<td class="us">Newmarket VC vs. University of East London</td>
+			</tr>
+			
+			<tr class="odd">
+				<td rowspan="2">Sunday<br />08-MAR-2015</td>
+				<td rowspan="2">21</td>
+				<td>EBC Greenhouse (London) vs. Newmarket VC</td>
+				<td rowspan="2">Ernest Bevin College</td>
+			</tr>
+			<tr class="odd">
+				<td>Norwich Spikers vs. Newmarket VC</td>
+			</tr>
+			
+			<tr class="even">
+				<td>Sunday<br />15-MAR-2015</td>
+				<td>24</td>
+				<td>Richmmond Volleyball 2 vs. Newmarket VC</td>
+				<td>Kingston Arena</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

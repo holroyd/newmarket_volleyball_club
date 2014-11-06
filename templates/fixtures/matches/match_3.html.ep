@@ -1,0 +1,31 @@
+% content_for secondTierMenu => begin
+<ul>
+	<li><a href="<%== url_for('fixtures') %>">&gt;&nbsp;fixtures</a></li>
+</ul>
+% end
+
+<div class="matchReport contentHeading">
+	<h1>Newmarket VC vs. Tendring Academy</h1>
+	<h2>Saturday 29th September 2014</h2>
+	<p>
+		Newmarket started the new season by welcoming Tendring Academy to the leisure centre. On winning the toss captain Dovaston selected to receive service and Newmarket made a strong start through Peter Gale. Gale started the season off where he ended the last with some big spikes.
+	</p>
+	<p>
+		Setter Marius Opalinski was also finding his range connecting with the middle hitters regularly. Tendring had a huge block in the middle and occasionally spikes were rebuked. Serving was Newmarkets only real fault as the first set was taken 25/20.
+	</p>
+	<p>
+		The same lineup was maintained in the second set as coach Day nobly kept himself on the bench despite an excellent preseason. Nik Mezanov was now finding his range and started to crunch some mega spikes. With a hearty lead built-up, coach Day was able to bring on debutant Ian Nixon through four and he won a point with his first spike. Captain Dovaston was now finding his range through the opposite position, craftily winning several points. 
+	</p>
+	<p>
+		The third set saw Newmarket start slowly, with Watts replaced by Day. Newmarket are always chasing their tail and eventually lost it 25:23. 
+	</p>
+	<p>
+		Changes are made in the fourth set and Newmarket started well - Gale was back swinging hard winning points and now Holroyd was busy in the middle with some clinical blocking. Newmarket built up a steady lead and were never  to be caught. Several aces by Gale, and a super spike-down saw the set closed out 25-19 and with that the match. Tendring voted Gale as man of the match forgetting about the many errors he made from the service line... Many thanks to Tim for doing the scoring, and to Dom and Paulina from Castle Manor for line judging.
+	</p>
+	<p>
+		Team performance seven on ten.
+	</p>
+	<p>
+		<a href="<%== url_for('/pancake_league') %>">Pancake League</a> - Nik Mazanov [2]
+	</p>
+</div>

@@ -1,0 +1,28 @@
+% content_for secondTierMenu => begin
+<ul>
+	<li><a href="<%== url_for('fixtures') %>">&gt;&nbsp;fixtures</a></li>
+</ul>
+% end
+
+<div class="matchReport contentHeading">
+	<h1>Newmarket VC vs. Norwich Spikers</h1>
+	<h2>Sunday 19th October 2014</h2>
+	<p>
+		The first triple header of the season. Newmarket VC played the second game versus Norwich Spikers who lost the opening game in a 5 set match against Richmond VC. The venue in Richmond was the hardest part of the fixtures with the noise from another game on the adjacent court causing lots of problems for the referees and players. This was also the first sports hall that any of the Newmarket VC team could remember climbing three flights of stairs to get to.
+	</p>
+	<p>
+		Norwich Spikers played really well. Most notable was their setter who produced an excellent display of mixed sets of the highest quality. This combined with proficient passing and defence made them a hard team to break down.
+	</p>
+	<p>
+		The game proved to be on a knife edge as the teams traded the first two sets. Norwich Spikers then won the 3rd set 25-22 and looked to have Newmarket VC on the edge of defeat. But Newmarket VC fought back after finally managing to compose themselves in attack. Peter "Storm" Gale continued to score points and led the way to a fifth set decider.
+	</p>
+	<p>
+		The heat in the hall was causing Newmarket all sorts of problems with their serves, but in this set the ball finally decide to fall in to court and not hit the back wall. Simon Holroyd completed a dominant run of serves that saw, and heard, the Salmon ace call sung out around the hall.
+	</p>
+	<p>
+		Newmarket VC won the 5th set by 16 points to 14 after facing two match points against them. This was an excellent win for Newmarket VC, but a demoralising defeat to Norwich Spikers that played really well.
+	</p>
+	<p>
+		<a href="<%== url_for('/pancake_league') %>">Pancake League</a> - none
+	</p>
+</div>

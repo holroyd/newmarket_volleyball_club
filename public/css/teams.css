@@ -1,0 +1,53 @@
+.players {
+	margin: 0 auto;
+	width: 704px;
+}
+.player {
+	display: inline-block;
+	padding: 3px;
+	width: 216px;
+	text-align: middle;
+	margin: 0 10px 20px 0;
+}
+.playerDetails {
+	padding: 10px 0;
+	text-align: center;
+	background-color: #eaef34;
+	border-radius: 5px 5px 0 0;
+	color: #348cef;
+	width: 100%;
+}
+.playerDetails h1 {
+	font-size: 25px;
+	padding-bottom: 8px;
+}
+.playerDetails h2 {
+	font-size: 17px;
+	font-weight: 400;
+}
+.playerPicture {
+	background-color: #348cef;
+	margin: 0 auto;
+	padding: 3px 0;
+	text-align: center;
+}
+.missingImage {
+	height: 150px;
+}
+.playerStats {
+	background-color: #348cef;
+	padding: 2px;
+}
+.teamStats {
+	
+}
+.teamStatTitle, .teamStatValue {
+	font-size: 20px;
+}
+
+.teamStatTitle {
+	
+}
+.teamStatValue {
+	
+}

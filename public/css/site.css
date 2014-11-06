@@ -1,0 +1,293 @@
+body {
+    font: 13px/16px "Helvetica Neue",Roboto,"Segoe UI",Calibri,sans-serif;
+    margin: 0;
+	color: #666;
+	background: none repeat scroll 0 0 #eaf3fd;
+}
+div {
+	display: block;
+}
+h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+p {
+	margin: 5px 0px 5px 0px;
+	text-align: justify;
+	line-height: 1.2em;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+table, th, td {
+	border: 1px solid #348cef;
+}
+th, td {
+	padding: 3px;
+}
+td.label {
+	background-color: #348cef;
+	color: #fff;
+	text-align: right;
+	font-weight: 400;
+}
+td.data {
+	background-color: #fff;
+	color: #348cef;
+}
+
+.dataTable table, th, td {
+	border: 1px solid #eee;
+	text-align: center;
+}
+.dataTable th {
+	background-color: #cccccc;
+}
+.dataTable th, td {
+	padding: 6px 8px;
+}
+
+a, a:visited, a:hover {
+	text-decoration: none;
+	color: #34abef;
+}
+a:hover {
+	text-decoration: underline;
+}
+.clear {
+	clear: both;
+}
+.fullwidth {
+	width: 100%;
+	clear: both;
+	margin: 0px auto;
+	padding: 0px;
+}
+.contentHeading h1, .contentHeading h2 {
+	color: #348cef;
+	margin: 0 0 10px 10px;
+}
+.contentHeading h1 {
+	font-size: 25px;
+}
+.contentHeading h2 {
+	font-size: 15px;
+}
+.odd {
+	background-color: #ebebeb;;
+}
+.even {
+	background-color: #f5f5f5;
+}
+.border {
+	border-style: solid;
+	border-color: #aaa;
+}
+.teamTop {
+	background-image: url("../images/pancake1.jpg");
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	height: 300px;
+}
+.heading {
+	background-color: #348cef;
+	display: table;
+}
+.footer {
+	background-color: #348cef;
+	border-top: 1px solid #ccc;
+	height: 100px;
+}
+.logoWrapper {
+	margin: 0px auto;
+	max-width: 1400px;
+	height: 36px;
+}
+.logo {
+	float: left;
+	width: 500px;
+	color: #fff;
+}
+.logo h1 {
+	font-size: 35px;
+}
+.logo h1, .jockeys h1 {
+	margin: 10px 10px;
+	text-shadow:
+	    1px  1px 1px #1066c7,
+	    1px -1px 1px #1066c7,
+	   -1px  1px 1px #1066c7,
+	   -1px -1px 1px #1066c7;
+}
+.logo, .jockeys {
+	color: #fff;
+}
+.jockeys {
+	width: 300px;
+	float: right;
+	text-align: right;
+}
+.jockeys h1 {
+	font-style: italic;
+	font-size: 30px;
+}
+.menu {
+	margin: 0px auto;
+	width: 671px;
+}
+.menu ul, .secondTierMenu ul {
+	list-style-type: none;
+}
+.menu li, .secondTierMenu li {
+	float: left;
+}
+.menu ul li a, .menu ul li.current {
+	background-color: #fff;
+	border-radius: 5px 5px 0 0;
+	color: #888;
+	display: block;
+	font-size: 16px;
+	margin-left: 8px;
+	padding: 7px 20px;
+	text-transform: uppercase;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+.menu ul li a {
+	border-bottom-color: #348cef;
+	background-color: #eee;
+}
+.menu ul li.current {
+	color: #348cef;
+	border-bottom-color: #fff;
+}
+.secondTierMenu {
+	background-color: #fff;
+	font-size: 16px;
+	padding: 10px;
+	width: 970px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+.secondTierMenu ul {
+	margin: 0;
+	padding: 0;
+}
+.secondTierMenu ul li {
+	padding: 0px 10px;
+}
+.secondTierMenu ul li a {
+
+}
+.secondTierMenu ul li.current {
+	color: #ef3a34;
+}
+.leftFrame, .rightFrame {
+	width: 150px;
+	float: left;
+}
+.page {
+	display: table;
+	margin: 0px auto;
+	width: 980px;
+}
+.page, .imageCaption {
+	background-color: #f5f5f5;
+}
+div.pageTitle {
+	padding: 12px 0;
+}
+.pageTitle h1 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #292f33;
+}
+.content { 
+}
+.twitter {
+	float: right;
+	width: 250px;
+	height: 500px;
+	border-width: 0 0 1px 1px;
+	padding: 0px 0px 5px 5px;
+}
+.news {
+	float: left;
+	padding: 0 5px;
+	width: 714px;
+}
+.newsItem {
+	padding: 10px 0px 10px 0px;
+	border-width: 0px 0px 1px 0px;
+	position: relative;
+}
+.newsItem h1 {
+	margin: 0px 0px 18px 5px;
+	font-size: 32px;
+}
+.gameResult {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	background-color: #eaef34;
+	color: #348cef;
+	padding: 1px 3px;
+	text-align: center;
+	vertical-align: middle;
+}
+.gameResult p {
+	margin: 0px;
+}
+.newsItemImage {
+	float: left;
+	position: relative;
+}
+.imageCaption {
+	position: absolute;
+	bottom: 3px;
+	right: 0px;
+	padding: 5px 10px;
+	border-radius: 5px 0 0;
+}
+.imageCaption p {
+	
+}
+.newsItemImage, .missingImage {
+	width: 304px;
+	margin: 0 0 0 -5px;
+}
+.newsItemText {
+	float: left;
+	margin: 0 5px 0 10px;
+	width: 395px;
+	position: relative;
+}
+.newsItemText h1 {
+	font-size: 16px;
+	margin: 0px 0px 5px 0px;
+}
+.newsItemText h2 {
+	font-size: 14px;
+}
+.newsItemText p {
+	text-align: justify;
+	line-height: 1.2em;
+}
+.newsItem ul {
+	list-style: none outside none;
+	margin: 3px 0 0;
+	padding-left: 0;
+}
+.missingImage {
+    border: 1px dashed #000;
+    height: 171px;
+	margin: 0px;
+}
+.contentFooter {
+	background-color: #348cef;
+	padding: 3px;
+}
+.contentFooter a, .contentFooter a:visited {
+	color: #fff;;
+}

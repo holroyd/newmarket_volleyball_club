@@ -1,0 +1,28 @@
+% content_for head => begin
+<link rel="stylesheet" href="/css/pancake_league.css" type="text/css" />
+% end
+<div class="pancakeLeague contentHeading">
+	<h1>Pancake League</h1>
+	<h2></h2>
+	<table class="dataTable">
+		<thead>
+			<tr>
+				<th>Position</th>
+				<th>Player</th>
+				<th>Points</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="odd">
+				<td>1</td>
+				<td>Nik Mezanov</td>
+				<td>2</td>
+			</tr>
+			<tr class="even">
+				<td>2</td>
+				<td>Peter Gale</td>
+				<td>1</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

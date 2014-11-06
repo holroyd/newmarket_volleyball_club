@@ -1,0 +1,36 @@
+% content_for secondTierMenu => begin
+<ul>
+	<%== team_menu($leagueId) %>
+</ul>
+% end
+
+<br clear="all" />
+<div class="players">
+	<% foreach my $player (@$players) { %>
+		<div class="player">
+			<div class="playerDetails">
+				<h1><%= $player->{'fullname'} %></h1>
+				<h2><%= $player->{'positions'} %></h2>
+			</div>
+			<div class="playerPicture">
+				<img src="<%= $player->{'image_uri'} %>" width="160" height="240" alt="Untitled" />
+			</div>
+			<div class="playerStats">
+				<table>
+					<tr>
+						<td class="label">Height (cm)</td>
+						<td class="data"><%= $player->{'height'} %></td>
+					</tr>
+					<tr>
+						<td class="label">Weight (kg)</td>
+						<td class="data"><%= $player->{'weight'} %></td>
+					</tr>
+					<tr>
+						<td class="label">Age</td>
+						<td class="data"><%= $player->{'age'} %></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	<% } %>
+</div>

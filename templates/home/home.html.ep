@@ -1,0 +1,73 @@
+<div class="news content">
+	
+	<% my $newsItem = $headline->{"news"}; %>
+	<% my $links = $headline->{"links"}; %>
+
+	<div class="newsItem border">
+		<h1><% if ($newsItem->{'title_uri'}) { %> <a href="<%== $newsItem->{'title_uri'} %>"><% } %><%== $newsItem->{'title'} %><% if ($newsItem->{'title_uri'}) { %></a><% } %></h1>
+		<div class="gameResult">
+			<p><%== $newsItem->{"result"} %></p>
+		</div>
+		<div class="newsItemImage">
+			<% if ($newsItem->{'image_uri'}) { %>
+			<img src="<%== $newsItem->{'image_uri'} %>" width="304" height="171" alt="news image">
+			<div class="imageCaption">
+				<p><%== $newsItem->{'image_caption'} %></p>
+			</div>
+			<% } else { %>
+			<div class="missingImage"></div>
+			<% } %>
+		</div>
+		<div class="newsItemText">
+			<h2><%== $newsItem->{"date"} %></h2>
+			<p><%== $newsItem->{"text"} %></p>
+			<% if (scalar(@$links)) { %>
+			<ul>
+				<% foreach my $link (@$links) { %>
+				<li><a href="<%== $link->{'uri'} %>"><%== $link->{'link'} %></a></li>
+				<% } %>
+			</ul>
+			<% } %>
+		</div>
+		<br clear="all" />
+	</div>
+	
+	<% foreach my $n (@$news) { %>
+		<% my $newsItem = $n->{"news"}; %>
+		<% my $links = $n->{"links"}; %>
+	<div class="newsItem border">
+		<div class="newsItemImage">
+			<% if ($newsItem->{'image_uri'}) { %>
+			<img src="<%== $newsItem->{'image_uri'} %>" width="304" height="171" alt="news image">
+			<div class="imageCaption">
+				<p><%== $newsItem->{'image_caption'} %></p>
+			</div>
+			<% } else { %>
+			<div class="missingImage"></div>
+			<% } %>
+		</div>
+		<div class="newsItemText">
+			<div class="gameResult">
+				<p><%== $newsItem->{'result'} %></p>
+			</div>
+			<h1><% if ($newsItem->{'title_uri'}) { %> <a href="<%== $newsItem->{'title_uri'} %>"><% } %><%== $newsItem->{'title'} %><% if ($newsItem->{'title_uri'}) { %></a><% } %></h1>
+			<h2><%== $newsItem->{'date'} %></h2>
+			<p><%== $newsItem->{'text'} %></p>
+			<% if (scalar(@$links)) { %>
+			<ul>
+				<% foreach my $link (@$links) { %>
+				<li><a href="<%== $link->{'uri'} %>"><%== $link->{'link'} %></a></li>
+				<% } %>
+			</ul>
+			<% } %>
+		</div>
+		<br clear="all" />
+	</div>
+	
+ <% } %>
+
+</div>
+
+<div class="twitter content border">
+	<a class="twitter-timeline" height=500 href="https://twitter.com/newmarketVC" data-chrome="nofooter transparent" data-widget-id="293129215497342978">Tweets by @newmarketVC</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>

@@ -1,0 +1,17 @@
+.fixtures {
+	width: 620px;
+	margin-left: -1px;
+}
+.fixturesHeading h1 {
+	
+}
+.fixturesHeading h2 {
+	
+}
+.matchReport {
+	width: 700px;
+}
+.matchReport p {
+	line-height: 1.5em;
+	margin: 20px 0 10px 10px;
+}

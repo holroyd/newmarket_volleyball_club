@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title><%= title %></title>
+	<link rel="stylesheet" href="/css/site.css" type="text/css" />
+	<%== content_for 'head' %>
+	<% if ($page eq 'teams') { %>
+		<link rel="stylesheet" href="/css/teams.css" type="text/css" />
+	<% } %>
+	<% if ($page eq 'fixtures') { %>
+		<link rel="stylesheet" href="/css/fixtures.css" type="text/css" />
+	<% } %>
+</head>
+	<body>
+		<div id="fullwidth" class="fullwidth">
+			<div class="teamTop">
+			</div>
+			<div id="heading" class="heading fullwidth">
+				<div class="logoWrapper">
+					<div class="logo">
+						<h1>newmarket volleyball club</h1>
+					</div>
+					<div class="jockeys">
+						<h1>&#34;the jockeys&#34;</h1>
+					</div>
+				</div>
+				<div class="clear"></div><!--
+			 --><div id="menu" class="menu">
+					<ul>
+						<%== menu_items($page) %>
+					</ul>
+				</div>
+			</div>
+			<div id="page" class="page">
+				<div class="secondTierMenu">
+					<%= content_for 'secondTierMenu' %>
+				</div>
+				<%= content %>
+			</div>
+			<div class="footer fullwidth">
+		</div>	
+	</body>
+</html>

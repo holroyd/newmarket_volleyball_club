@@ -1,0 +1,41 @@
+.fixturesContainer {
+	color: #fff;
+}
+.fixturesHeading {
+	text-align: left;
+}
+.fixturesHeading h1, .fixturesHeading h2 {
+}
+.fixturesHeading h1 {
+	padding: 10px 0 8px 10px;
+}
+.fixturesHeading h2 {
+	padding: 0 0 10px 10px;
+}
+.fixtures {
+	//display: none;
+	background-color: #eee;
+	padding: 10px 0;
+}
+table {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+tr {
+
+}
+th {
+	padding: 5px;
+	background-color: #eaef34;
+	color: #348cef;
+}
+
+td {
+	text-align: center;
+	padding: 8px 3px;
+}
+.fixturesOpenShut {
+	text-align: center;
+	border-radius: 0 0 5px 5px;
+}
