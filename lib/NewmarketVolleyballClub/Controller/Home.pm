@@ -5,13 +5,13 @@ sub home {
 	my $self = shift;
 	my $sql = qq {
 		select 
-			n.id, n.title, n.title_uri, date_format(n.date,'%W %D %M %Y') date, 
-			n.image_uri, n.image_caption, n.title_uri, n.result, 
-			n.text, n.is_headline 
+			id, title, title_uri, date, formatted_date,
+			image_uri, image_caption, title_uri, result, 
+			text
 		from 
-			news n
+			news_vw
 		order by 
-			n.date desc
+			date desc
 	};
 	my $sth = $self->db->prepare($sql);
 	$sth->execute();

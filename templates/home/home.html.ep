@@ -19,7 +19,7 @@
 			<% } %>
 		</div>
 		<div class="newsItemText">
-			<h2><%== $newsItem->{"date"} %></h2>
+			<h2><%== $newsItem->{"formatted_date"} %></h2>
 			<p><%== $newsItem->{"text"} %></p>
 			<% if (scalar(@$links)) { %>
 			<ul>
@@ -51,7 +51,7 @@
 				<p><%== $newsItem->{'result'} %></p>
 			</div>
 			<h1><% if ($newsItem->{'title_uri'}) { %> <a href="<%== $newsItem->{'title_uri'} %>"><% } %><%== $newsItem->{'title'} %><% if ($newsItem->{'title_uri'}) { %></a><% } %></h1>
-			<h2><%== $newsItem->{'date'} %></h2>
+			<h2><%== $newsItem->{'formatted_date'} %></h2>
 			<p><%== $newsItem->{'text'} %></p>
 			<% if (scalar(@$links)) { %>
 			<ul>

@@ -6284,3 +6284,510 @@ Compilation failed in require at (eval 286) line 1.
 [Thu Nov  6 20:58:40 2014] [debug] Rendering template "home/home.html.ep".
 [Thu Nov  6 20:58:40 2014] [debug] Rendering template "layouts/default.html.ep".
 [Thu Nov  6 20:58:40 2014] [debug] 200 OK (0.098860s, 10.115/s).
+[Thu Nov  6 22:07:54 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:07:54 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:07:54 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:07:54 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 22:07:54 2014] [debug] 200 OK (0.064850s, 15.420/s).
+[Thu Nov  6 22:09:41 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:09:41 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:09:41 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:09:41 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 22:09:41 2014] [debug] 200 OK (0.004388s, 227.894/s).
+[Thu Nov  6 22:09:43 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:09:43 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:09:43 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:09:43 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 22:09:43 2014] [debug] 200 OK (0.026347s, 37.955/s).
+[Thu Nov  6 22:11:15 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:11:15 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:11:15 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:11:15 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 22:11:15 2014] [debug] 200 OK (0.030462s, 32.828/s).
+[Thu Nov  6 22:12:37 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:12:37 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:12:37 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:12:37 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 22:12:37 2014] [debug] 200 OK (0.032126s, 31.127/s).
+[Thu Nov  6 22:12:41 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:12:41 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:12:41 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:12:41 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 22:12:41 2014] [debug] 200 OK (0.002975s, 336.134/s).
+[Thu Nov  6 22:15:00 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:15:00 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:15:00 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:15:00 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 22:15:00 2014] [debug] 200 OK (0.032647s, 30.631/s).
+[Thu Nov  6 22:15:51 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:15:51 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:15:51 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:15:51 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 22:15:51 2014] [debug] 200 OK (0.002428s, 411.862/s).
+[Thu Nov  6 22:16:12 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:16:12 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:16:12 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:16:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 22:16:12 2014] [debug] 200 OK (0.005162s, 193.723/s).
+[Thu Nov  6 22:16:53 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:16:53 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:16:53 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:16:53 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 22:16:53 2014] [debug] 200 OK (0.032427s, 30.838/s).
+[Thu Nov  6 22:19:43 2014] [debug] GET "/fixtures".
+[Thu Nov  6 22:19:43 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 22:19:43 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 22:19:43 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 22:19:43 2014] [debug] 200 OK (0.002949s, 339.098/s).
+[Thu Nov  6 22:28:41 2014] [debug] GET "/home".
+[Thu Nov  6 22:28:41 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Thu Nov  6 22:28:41 2014] [debug] Rendering template "home/home.html.ep".
+[Thu Nov  6 22:28:41 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 22:28:41 2014] [debug] 200 OK (0.018430s, 54.259/s).
+[Thu Nov  6 23:01:03 2014] [debug] GET "/home".
+[Thu Nov  6 23:01:03 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Thu Nov  6 23:01:03 2014] [debug] Rendering template "home/home.html.ep".
+[Thu Nov  6 23:01:03 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:01:03 2014] [debug] 200 OK (0.037194s, 26.886/s).
+[Thu Nov  6 23:01:05 2014] [debug] GET "/home".
+[Thu Nov  6 23:01:05 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Thu Nov  6 23:01:05 2014] [debug] Rendering cached template "home/home.html.ep".
+[Thu Nov  6 23:01:05 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:01:05 2014] [debug] 200 OK (0.013257s, 75.432/s).
+[Thu Nov  6 23:02:11 2014] [debug] GET "/home".
+[Thu Nov  6 23:02:11 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Thu Nov  6 23:02:11 2014] [debug] Rendering cached template "home/home.html.ep".
+[Thu Nov  6 23:02:11 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:02:11 2014] [debug] 200 OK (0.009390s, 106.496/s).
+[Thu Nov  6 23:02:12 2014] [debug] GET "/home".
+[Thu Nov  6 23:02:12 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Thu Nov  6 23:02:12 2014] [debug] Rendering cached template "home/home.html.ep".
+[Thu Nov  6 23:02:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:02:12 2014] [debug] 200 OK (0.009883s, 101.184/s).
+[Thu Nov  6 23:03:02 2014] [debug] GET "/home".
+[Thu Nov  6 23:03:02 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Thu Nov  6 23:03:02 2014] [debug] Rendering cached template "home/home.html.ep".
+[Thu Nov  6 23:03:02 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:03:02 2014] [debug] 200 OK (0.010366s, 96.469/s).
+[Thu Nov  6 23:18:57 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:18:57 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:18:57 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:18:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:18:57 2014] [debug] 200 OK (0.023929s, 41.790/s).
+[Thu Nov  6 23:22:57 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:22:57 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:22:57 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:22:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:22:57 2014] [debug] 200 OK (0.029356s, 34.065/s).
+[Thu Nov  6 23:23:27 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:23:27 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:23:27 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:23:27 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:23:27 2014] [debug] 200 OK (0.028893s, 34.610/s).
+[Thu Nov  6 23:27:09 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:27:09 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:27:09 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:27:09 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:27:09 2014] [debug] 200 OK (0.027845s, 35.913/s).
+[Thu Nov  6 23:27:36 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:27:36 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:27:36 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:27:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:27:36 2014] [debug] 200 OK (0.004305s, 232.288/s).
+[Thu Nov  6 23:27:57 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:27:57 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:27:57 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:27:57 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:27:57 2014] [debug] 200 OK (0.003671s, 272.405/s).
+[Thu Nov  6 23:28:09 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:28:09 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:28:09 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:28:09 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:28:09 2014] [debug] 200 OK (0.003507s, 285.144/s).
+[Thu Nov  6 23:30:42 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:30:42 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:30:43 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:30:43 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:30:43 2014] [debug] 200 OK (0.038552s, 25.939/s).
+[Thu Nov  6 23:30:48 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:30:48 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:30:48 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:30:48 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:30:48 2014] [debug] 200 OK (0.003543s, 282.247/s).
+[Thu Nov  6 23:32:09 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:32:09 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:32:09 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:32:09 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:32:09 2014] [debug] 200 OK (0.003367s, 297.000/s).
+[Thu Nov  6 23:38:59 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:38:59 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:38:59 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:38:59 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:38:59 2014] [debug] 200 OK (0.002881s, 347.102/s).
+[Thu Nov  6 23:40:40 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:40:40 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:40:40 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:40:40 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:40:40 2014] [debug] 200 OK (0.003873s, 258.198/s).
+[Thu Nov  6 23:41:46 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:41:46 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:41:46 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:41:46 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:41:46 2014] [debug] 200 OK (0.002690s, 371.747/s).
+[Thu Nov  6 23:41:49 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:41:49 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:41:49 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:41:49 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:41:49 2014] [debug] 200 OK (0.002734s, 365.764/s).
+[Thu Nov  6 23:42:49 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:42:49 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:42:49 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:42:49 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:42:49 2014] [debug] 200 OK (0.004135s, 241.838/s).
+[Thu Nov  6 23:44:04 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:44:04 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:44:04 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:44:04 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:44:04 2014] [debug] 200 OK (0.025813s, 38.740/s).
+[Thu Nov  6 23:45:02 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:45:02 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:45:02 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:45:02 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:45:02 2014] [debug] 200 OK (0.033849s, 29.543/s).
+[Thu Nov  6 23:45:03 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:45:03 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:45:03 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:45:03 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:45:03 2014] [debug] 200 OK (0.004729s, 211.461/s).
+[Thu Nov  6 23:45:38 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:45:38 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:45:38 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:45:38 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  6 23:45:38 2014] [debug] 200 OK (0.003263s, 306.466/s).
+[Thu Nov  6 23:45:39 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:45:39 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:45:39 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:45:39 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:45:39 2014] [debug] 200 OK (0.030487s, 32.801/s).
+[Thu Nov  6 23:48:57 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:48:57 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:48:57 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:48:57 2014] [error] Not a HASH reference at template fixtures/fixtures.html.ep line 12.
+7: 			<ul>
+8: 				<li><span class="time"><%== $fixture->{"time"} %></span></li>
+9: 				<li class="homeTeam"><%= $fixture->{"home_team"} %></li>
+10: 				<li>vs.</li>
+11: 				<li class="awayTeam"><%= $fixture->{"away_team"} %></li>
+12: 				<li><span class="result"><%== $fixtures->{"result"} %></span></li>
+13: 			</ul>
+14: 			<br clear="all" />
+15: 		<% } %>
+16: 		</table>
+17: 	</div>
+
+[Thu Nov  6 23:48:57 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Nov  6 23:48:57 2014] [debug] Template "exception.html.ep" not found.
+[Thu Nov  6 23:48:57 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Thu Nov  6 23:48:57 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Thu Nov  6 23:48:57 2014] [debug] 500 Internal Server Error (0.058312s, 17.149/s).
+[Thu Nov  6 23:49:14 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:49:14 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:49:14 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:49:14 2014] [error] Not a HASH reference at template fixtures/fixtures.html.ep line 12.
+7: 			<ul>
+8: 				<li><span class="time"><%== $fixture->{"time"} %></span></li>
+9: 				<li class="homeTeam"><%= $fixture->{"home_team"} %></li>
+10: 				<li>vs.</li>
+11: 				<li class="awayTeam"><%= $fixture->{"away_team"} %></li>
+12: 				<li><span class="result"><%= $fixtures->{"result"} %></span></li>
+13: 			</ul>
+14: 			<br clear="all" />
+15: 		<% } %>
+16: 		</table>
+17: 	</div>
+
+[Thu Nov  6 23:49:14 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Nov  6 23:49:14 2014] [debug] Template "exception.html.ep" not found.
+[Thu Nov  6 23:49:14 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Thu Nov  6 23:49:14 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Thu Nov  6 23:49:14 2014] [debug] 500 Internal Server Error (0.057887s, 17.275/s).
+[Thu Nov  6 23:49:20 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:49:20 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:49:20 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:49:20 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:49:20 2014] [debug] 200 OK (0.028532s, 35.048/s).
+[Thu Nov  6 23:50:18 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:50:18 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:50:18 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:50:18 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:50:18 2014] [debug] 200 OK (0.032289s, 30.970/s).
+[Thu Nov  6 23:56:11 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:56:11 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:56:11 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:56:11 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:56:11 2014] [debug] 200 OK (0.030723s, 32.549/s).
+[Thu Nov  6 23:57:12 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:57:12 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:57:12 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:57:12 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:57:12 2014] [debug] 200 OK (0.033998s, 29.413/s).
+[Thu Nov  6 23:57:39 2014] [debug] GET "/fixtures".
+[Thu Nov  6 23:57:39 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Thu Nov  6 23:57:39 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Thu Nov  6 23:57:39 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  6 23:57:39 2014] [debug] 200 OK (0.026869s, 37.218/s).
+[Fri Nov  7 00:00:19 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:00:19 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:00:19 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:00:19 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:00:19 2014] [debug] 200 OK (0.028307s, 35.327/s).
+[Fri Nov  7 00:01:24 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:01:24 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:01:24 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:01:24 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:01:24 2014] [debug] 200 OK (0.029674s, 33.700/s).
+[Fri Nov  7 00:02:02 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:02:02 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:02:02 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:02:02 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:02:02 2014] [debug] 200 OK (0.026975s, 37.071/s).
+[Fri Nov  7 00:02:21 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:02:21 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:02:21 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:02:21 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:02:21 2014] [debug] 200 OK (0.003555s, 281.294/s).
+[Fri Nov  7 00:02:45 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:02:45 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:02:45 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:02:45 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:02:45 2014] [debug] 200 OK (0.005034s, 198.649/s).
+[Fri Nov  7 00:03:12 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:03:12 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:03:12 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:03:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:03:12 2014] [debug] 200 OK (0.003805s, 262.812/s).
+[Fri Nov  7 00:03:45 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:03:45 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:03:45 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:03:45 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:03:45 2014] [debug] 200 OK (0.003134s, 319.081/s).
+[Fri Nov  7 00:07:56 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:07:56 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:07:56 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:07:56 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:07:56 2014] [debug] 200 OK (0.028272s, 35.371/s).
+[Fri Nov  7 00:08:53 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:08:53 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:08:53 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:08:53 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:08:53 2014] [debug] 200 OK (0.004071s, 245.640/s).
+[Fri Nov  7 00:09:48 2014] [debug] GET "/home".
+[Fri Nov  7 00:09:48 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Fri Nov  7 00:09:48 2014] [debug] Rendering template "home/home.html.ep".
+[Fri Nov  7 00:09:48 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:09:48 2014] [debug] 200 OK (0.019502s, 51.277/s).
+[Fri Nov  7 00:09:53 2014] [debug] GET "/teams".
+[Fri Nov  7 00:09:53 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Teams" and action "teams".
+[Fri Nov  7 00:09:53 2014] [debug] Rendering template "teams/teams.html.ep".
+[Fri Nov  7 00:09:53 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:09:53 2014] [debug] 200 OK (0.026644s, 37.532/s).
+[Fri Nov  7 00:09:57 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:09:57 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:09:57 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:09:57 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:09:57 2014] [debug] 200 OK (0.002453s, 407.664/s).
+[Fri Nov  7 00:11:35 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:11:35 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:11:35 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:11:35 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:11:35 2014] [debug] 200 OK (0.031923s, 31.325/s).
+[Fri Nov  7 00:12:07 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:12:07 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:12:07 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:12:07 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:12:07 2014] [debug] 200 OK (0.002626s, 380.807/s).
+[Fri Nov  7 00:12:08 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:12:08 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:12:08 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:12:08 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:12:08 2014] [debug] 200 OK (0.024559s, 40.718/s).
+[Fri Nov  7 00:12:34 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:12:34 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:12:34 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:12:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:12:34 2014] [debug] 200 OK (0.002869s, 348.554/s).
+[Fri Nov  7 00:14:17 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:14:17 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:14:17 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:14:17 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:14:17 2014] [debug] 200 OK (0.002891s, 345.901/s).
+[Fri Nov  7 00:15:42 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:15:42 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:15:42 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:15:42 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:15:42 2014] [debug] 200 OK (0.003682s, 271.592/s).
+[Fri Nov  7 00:18:16 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:18:16 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:18:16 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:18:16 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:18:16 2014] [debug] 200 OK (0.002871s, 348.311/s).
+[Fri Nov  7 00:22:02 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:22:02 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:22:02 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:22:02 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:22:02 2014] [debug] 200 OK (0.003463s, 288.767/s).
+[Fri Nov  7 00:23:10 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:23:10 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:23:10 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:23:10 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:23:10 2014] [debug] 200 OK (0.003597s, 278.009/s).
+[Fri Nov  7 00:23:37 2014] [debug] GET "/fixtures/match/3".
+[Fri Nov  7 00:23:37 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtureMatch".
+[Fri Nov  7 00:23:37 2014] [debug] Rendering template "fixtures/matches/match_3.html.ep".
+[Fri Nov  7 00:23:37 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:23:37 2014] [debug] 200 OK (0.008512s, 117.481/s).
+[Fri Nov  7 00:23:45 2014] [debug] GET "/fixtures/match/3".
+[Fri Nov  7 00:23:45 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtureMatch".
+[Fri Nov  7 00:23:45 2014] [debug] Rendering cached template "fixtures/matches/match_3.html.ep".
+[Fri Nov  7 00:23:45 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:23:45 2014] [debug] 200 OK (0.002003s, 499.251/s).
+[Fri Nov  7 00:23:46 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:23:46 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:23:46 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:23:46 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:23:46 2014] [debug] 200 OK (0.004602s, 217.297/s).
+[Fri Nov  7 00:23:58 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:23:58 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:23:58 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:23:58 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:23:58 2014] [debug] 200 OK (0.003640s, 274.725/s).
+[Fri Nov  7 00:25:12 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:25:12 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:25:12 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:25:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:25:12 2014] [debug] 200 OK (0.003887s, 257.268/s).
+[Fri Nov  7 00:34:06 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:34:06 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:34:06 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:34:06 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:34:06 2014] [debug] 200 OK (0.032780s, 30.506/s).
+[Fri Nov  7 00:34:38 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:34:38 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:34:38 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:34:38 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:34:38 2014] [debug] 200 OK (0.004628s, 216.076/s).
+[Fri Nov  7 00:35:19 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:35:19 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:35:19 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:35:19 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:35:19 2014] [debug] 200 OK (0.029210s, 34.235/s).
+[Fri Nov  7 00:41:48 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:41:48 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:41:48 2014] [debug] Rendering template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:41:48 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:41:48 2014] [debug] 200 OK (0.035742s, 27.978/s).
+[Fri Nov  7 00:43:14 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:43:14 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:43:14 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:43:14 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:43:14 2014] [debug] 200 OK (0.004761s, 210.040/s).
+[Fri Nov  7 00:43:16 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:43:16 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:43:16 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:43:16 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:43:16 2014] [debug] 200 OK (0.003289s, 304.044/s).
+[Fri Nov  7 00:43:51 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:43:51 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:43:51 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:43:51 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:43:51 2014] [debug] 200 OK (0.002809s, 355.999/s).
+[Fri Nov  7 00:43:53 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:43:53 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:43:53 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:43:53 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:43:53 2014] [debug] 200 OK (0.003222s, 310.366/s).
+[Fri Nov  7 00:44:02 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:44:02 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:44:02 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:44:02 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:44:02 2014] [debug] 200 OK (0.004282s, 233.536/s).
+[Fri Nov  7 00:45:08 2014] [debug] GET "/teams".
+[Fri Nov  7 00:45:08 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Teams" and action "teams".
+[Fri Nov  7 00:45:08 2014] [debug] Rendering template "teams/teams.html.ep".
+[Fri Nov  7 00:45:08 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:45:08 2014] [debug] 200 OK (0.011938s, 83.766/s).
+[Fri Nov  7 00:45:46 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:45:46 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:45:46 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:45:46 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:45:46 2014] [debug] 200 OK (0.002870s, 348.432/s).
+[Fri Nov  7 00:46:11 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:46:11 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:46:11 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:46:11 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:46:11 2014] [debug] 200 OK (0.003610s, 277.008/s).
+[Fri Nov  7 00:47:32 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:47:32 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:47:32 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:47:32 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:47:32 2014] [debug] 200 OK (0.002704s, 369.822/s).
+[Fri Nov  7 00:49:00 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:49:00 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:49:00 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:49:00 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:49:00 2014] [debug] 200 OK (0.003270s, 305.810/s).
+[Fri Nov  7 00:49:49 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:49:49 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:49:49 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:49:49 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:49:49 2014] [debug] 200 OK (0.002864s, 349.162/s).
+[Fri Nov  7 00:49:50 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:49:50 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:49:50 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:49:50 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:49:50 2014] [debug] 200 OK (0.003076s, 325.098/s).
+[Fri Nov  7 00:58:23 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:58:23 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:58:23 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:58:23 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:58:23 2014] [debug] 200 OK (0.002670s, 374.532/s).
+[Fri Nov  7 00:58:25 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:58:25 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:58:25 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:58:25 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:58:25 2014] [debug] 200 OK (0.002876s, 347.705/s).
+[Fri Nov  7 00:58:27 2014] [debug] GET "/fixtures".
+[Fri Nov  7 00:58:27 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Fixtures" and action "fixtures".
+[Fri Nov  7 00:58:27 2014] [debug] Rendering cached template "fixtures/fixtures.html.ep".
+[Fri Nov  7 00:58:27 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 00:58:27 2014] [debug] 200 OK (0.003979s, 251.319/s).
+[Fri Nov  7 00:58:40 2014] [debug] GET "/home".
+[Fri Nov  7 00:58:40 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Fri Nov  7 00:58:40 2014] [debug] Rendering template "home/home.html.ep".
+[Fri Nov  7 00:58:40 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Nov  7 00:58:40 2014] [debug] 200 OK (0.024205s, 41.314/s).
+[Fri Nov  7 01:11:23 2014] [debug] GET "/home".
+[Fri Nov  7 01:11:23 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Fri Nov  7 01:11:23 2014] [debug] Rendering cached template "home/home.html.ep".
+[Fri Nov  7 01:11:23 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 01:11:23 2014] [debug] 200 OK (0.009380s, 106.610/s).
+[Fri Nov  7 01:18:03 2014] [debug] GET "/home".
+[Fri Nov  7 01:18:03 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Fri Nov  7 01:18:03 2014] [debug] Rendering cached template "home/home.html.ep".
+[Fri Nov  7 01:18:03 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 01:18:03 2014] [debug] 200 OK (0.005174s, 193.274/s).
+[Fri Nov  7 01:18:07 2014] [debug] GET "/home".
+[Fri Nov  7 01:18:07 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Fri Nov  7 01:18:07 2014] [debug] Rendering cached template "home/home.html.ep".
+[Fri Nov  7 01:18:07 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 01:18:07 2014] [debug] 200 OK (0.004326s, 231.160/s).
+[Fri Nov  7 01:18:09 2014] [debug] GET "/home".
+[Fri Nov  7 01:18:09 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Fri Nov  7 01:18:09 2014] [debug] Rendering cached template "home/home.html.ep".
+[Fri Nov  7 01:18:09 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 01:18:09 2014] [debug] 200 OK (0.009184s, 108.885/s).
+[Fri Nov  7 01:19:35 2014] [debug] GET "/home".
+[Fri Nov  7 01:19:35 2014] [debug] Routing to controller "NewmarketVolleyballClub::Controller::Home" and action "home".
+[Fri Nov  7 01:19:35 2014] [debug] Rendering cached template "home/home.html.ep".
+[Fri Nov  7 01:19:35 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Nov  7 01:19:35 2014] [debug] 200 OK (0.008260s, 121.065/s).

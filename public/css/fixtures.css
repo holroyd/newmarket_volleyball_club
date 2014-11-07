@@ -1,17 +1,51 @@
 .fixtures {
-	width: 620px;
-	margin-left: -1px;
+	width: 747px;
 }
-.fixturesHeading h1 {
+.fixtures h1 {
 	
 }
-.fixturesHeading h2 {
-	
+.fixtures h2 {
+	margin: 0 0 15px;
 }
-.matchReport {
-	width: 700px;
+.fixtureDate {
+	background-color: #eee;
+	margin: 20px 0;
+	padding: 10px;
 }
-.matchReport p {
-	line-height: 1.5em;
-	margin: 20px 0 10px 10px;
+.fixtures ul {
+	list-style-type: none;
+}
+.fixtures li {
+	background-color: #e5e5e5;
+	border-color: #ccc;
+	border-style: dashed;
+	border-width: 1px 0;
+	float: left;
+	padding: 5px;
+}
+li.result {
+	background-color: #348cef;
+	border-radius: 5px;
+	color: yellow;
+	margin-left: 10px;
+	text-align: center;
+	width: 70px;
+	border: none;
+}
+.time {
+	background-color: #eaef34;
+	border-radius: 3px;
+	padding: 2px;
+}
+.teams {
+	width: 330px;
+	text-align: center;
+}
+.homeTeam {
+	text-align: right;
+}
+.awayTeam {
+}
+.venue {
+	width: 200px;
 }
